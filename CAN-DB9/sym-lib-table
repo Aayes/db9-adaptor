@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name CAN-DB9-rescue)(type Legacy)(uri ${KIPRJMOD}/CAN-DB9-rescue.lib)(options "")(descr ""))
+)
